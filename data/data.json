@@ -1,0 +1,162 @@
+[
+		{
+			"name"	: "1 xiaomi redmi black as", 
+			"price"	: 100, 
+			"img"	: "images/xiaomi_redmi_6a_3_32gb_black_images_7375770576.jpg"
+		},
+		{
+			"name"	: "2 xiaomi mi black as", 
+			"price"	: 110, 
+			"img"	: "images/copy_xiaomi_mi_a2_lite_4_32gb_eu_black_5b7aae5d84452_images_6790946094.jpg"
+		},
+		{
+			"name"	: "3 huawei smart black as", 
+			"price"	: 50, 
+			"img"	: "images/huawei_p_smart_black_images_3022566807.jpg"
+		},
+		{
+			"name"	: "4 xiaomi redmi black as", 
+			"price"	: 100, 
+			"img"	: "images/xiaomi_redmi_6a_3_32gb_black_images_7375770576.jpg"
+		},
+		{
+			"name"	: "5 tp link as", 
+			"price"	: 80, 
+			"img"	: "images/tp_link_neffos_c5a_tp703a21ua_images_3005534015.jpg"
+		},
+		{
+			"name"	: "6 samsung sm as", 
+			"price"	: 75, 
+			"img"	: "images/samsung_sm_a720fzkdsek_images_1828059142.jpg"
+		},
+		{
+			"name"	: "7 xiaomi redmi 5 as", 
+			"price"	: 150, 
+			"img"	: "images/xiaomi_redmi_note_6_pro_3_32gb_black_images_7944253431.jpg"
+		},
+		{
+			"name"	: "8 xiaomi sa as", 
+			"price"	: 170, 
+			"img"	: "images/xiaomi_mi_max_2_4_64_black_eu_images_8493824995.jpg"
+		},
+		{
+			"name"	: "9 samsung zx as", 
+			"price"	: 750, 
+			"img"	: "images/samsung_sm_a750fzbusek_images_7811804088.jpg"
+		},
+		{
+			"name"	: "10 xiaomi pro as", 
+			"price"	: 1000, 
+			"img"	: "images/huawei_p20_pro_6_128gb_twilight_images_4627038056.jpg"
+		},
+		{
+			"name"	: "11 sony a1 as", 
+			"price"	: 1050, 
+			"img"	: "images/copy_xiaomi_redmi_6a_2_16gb_grey_eu_5be17baf2499d_images_8493864195.jpg"
+		},
+		{
+			"name"	: "12 sony a5 as", 
+			"price"	: 100, 
+			"img"	: "images/xiaomi_redmi_6a_3_32gb_black_images_7375770576.jpg"
+		},
+		{
+			"name"	: "13 sony z", 
+			"price"	: 1010, 
+			"img"	:"images/copy_xiaomi_mi8_lite_6_64gb_dream_blue_5bc7443c0a27c_images_8089284855.jpg"
+		},
+		{
+			"name"	: "14 samsung zx21", 
+			"price"	: 1100, 
+			"img"	:"images/samsung_sm_j250fzkdsek_images_2755509743.jpg"
+		},
+		{
+			"name"	: "15 samsung red", 
+			"price"	: 900, 
+			"img"	:"images/sony_xperia_xz1_black_images_2266904045.jpg"
+		},
+		{
+			"name"	: "16 xiaomi red", 
+			"price"	: 800, 
+			"img"	:"images/xiaomi_redmi5plus64black_images_4669648248.jpg"
+		},
+				{
+			"name"	: "17 xiaomi redmi black", 
+			"price"	: 100, 
+			"img"	: "images/xiaomi_redmi_6a_3_32gb_black_images_7375770576.jpg"
+		},
+		{
+			"name"	: "18 xiaomi mi black", 
+			"price"	: 110, 
+			"img"	: "images/copy_xiaomi_mi_a2_lite_4_32gb_eu_black_5b7aae5d84452_images_6790946094.jpg"
+		},
+		{
+			"name"	: "19 huawei smart black", 
+			"price"	: 50, 
+			"img"	: "images/huawei_p_smart_black_images_3022566807.jpg"
+		},
+		{
+			"name"	: "20 xiaomi redmi black", 
+			"price"	: 100, 
+			"img"	: "images/xiaomi_redmi_6a_3_32gb_black_images_7375770576.jpg"
+		},
+		{
+			"name"	: "21 tp link", 
+			"price"	: 80, 
+			"img"	: "images/tp_link_neffos_c5a_tp703a21ua_images_3005534015.jpg"
+		},
+		{
+			"name"	: "22 samsung sm", 
+			"price"	: 75, 
+			"img"	: "images/samsung_sm_a720fzkdsek_images_1828059142.jpg"
+		},
+		{
+			"name"	: "23 xiaomi redmi 5", 
+			"price"	: 150, 
+			"img"	: "images/xiaomi_redmi_note_6_pro_3_32gb_black_images_7944253431.jpg"
+		},
+		{
+			"name"	: "24 xiaomi sa", 
+			"price"	: 170, 
+			"img"	: "images/xiaomi_mi_max_2_4_64_black_eu_images_8493824995.jpg"
+		},
+		{
+			"name"	: "25 samsung zx", 
+			"price"	: 750, 
+			"img"	: "images/samsung_sm_a750fzbusek_images_7811804088.jpg"
+		},
+		{
+			"name"	: "26 xiaomi pro", 
+			"price"	: 1000, 
+			"img"	: "images/huawei_p20_pro_6_128gb_twilight_images_4627038056.jpg"
+		},
+		{
+			"name"	: "27 sony a1", 
+			"price"	: 1050, 
+			"img"	: "images/copy_xiaomi_redmi_6a_2_16gb_grey_eu_5be17baf2499d_images_8493864195.jpg"
+		},
+		{
+			"name"	: "28 sony a5", 
+			"price"	: 100, 
+			"img"	: "images/xiaomi_redmi_6a_3_32gb_black_images_7375770576.jpg"
+		},
+		{
+			"name"	: "29 sony z", 
+			"price"	: 1010, 
+			"img"	:"images/copy_xiaomi_mi8_lite_6_64gb_dream_blue_5bc7443c0a27c_images_8089284855.jpg"
+		},
+		{
+			"name"	: "30 samsung zx21", 
+			"price"	: 1100, 
+			"img"	:"images/samsung_sm_j250fzkdsek_images_2755509743.jpg"
+		},
+		{
+			"name"	: "31 samsung zx21", 
+			"price"	: 1100, 
+			"img"	:"images/samsung_sm_j250fzkdsek_images_2755509743.jpg"
+		},
+		{
+			"name"	: "32 samsung zx21", 
+			"price"	: 1100, 
+			"img"	:"images/samsung_sm_j250fzkdsek_images_2755509743.jpg"
+		}		
+	]
